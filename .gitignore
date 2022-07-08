@@ -1,0 +1,40 @@
+#Ignore all target directories
+target/
+
+#Ignore all files ending with ~
+*~
+
+#Ignore all log files ending with log
+*.log
+
+#Ignore all class files ending with log
+*.class
+
+ei-ui/
+
+#Ignore all build directories
+build/
+config/
+bin/
+out/
+Servers/
+
+.metadata/
+.gradle/
+.settings/
+
+.project
+.classpath
+
+
+/.nb-gradle
+
+*.iml
+.idea/
+.idea/libraries
+
+.DS_Store
+
+logs/tests/
+
+.version.txt
